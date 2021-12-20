@@ -23,5 +23,5 @@
 
 <h2>🔖 Modelo página/site: </h2>
 <p>
-  Você pode acessar a página clicando<a href="https://davilucena222.github.io/Estude-Facil/"> aqui.</a>
+  Você pode acessar a página clicando<a href=""> aqui.</a>
 </p>
