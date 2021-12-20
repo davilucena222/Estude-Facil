@@ -25,5 +25,5 @@
 
 <h2>🔖 Site: </h2>
 <p>
-  Você pode acessar o site clicando <a href="https://davilucena222.github.io/Beauty-Style/">aqui.</a>
+  Você pode acessar o site clicando <a href="https://davilucena222.github.io/Estude-Facil/">aqui.</a>
 </p>
