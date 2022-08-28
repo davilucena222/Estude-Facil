@@ -20,7 +20,7 @@
 <p>
   Estude Fácil é uma plataforma de estudante para estudantes, o lugar onde você pode desenvolver os seus resumos e compartilhar com a comunidade de forma gratuita. Todo dia centenas de pessoas acessam a plataforma para alavancar o aprendizado e os estudos até o próximo nível, contamos também com diversos professores qualificados para te fornecer o melhor conteúdo.
  
- Estude Fácil, estude conosco!
+ <a href="https://estude-facil.vercel.app/">Estude Fácil</a>, estude conosco!
 </p>
 
 <h2>🔖 Site: </h2>
